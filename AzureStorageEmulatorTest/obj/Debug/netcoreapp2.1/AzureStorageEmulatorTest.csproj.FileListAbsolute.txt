@@ -1,0 +1,11 @@
+C:\Users\1\Source\Repos\AzureStorageEmulatorTest\AzureStorageEmulatorTest\bin\Debug\netcoreapp2.1\AzureStorageEmulatorTest.deps.json
+C:\Users\1\Source\Repos\AzureStorageEmulatorTest\AzureStorageEmulatorTest\bin\Debug\netcoreapp2.1\AzureStorageEmulatorTest.runtimeconfig.json
+C:\Users\1\Source\Repos\AzureStorageEmulatorTest\AzureStorageEmulatorTest\bin\Debug\netcoreapp2.1\AzureStorageEmulatorTest.runtimeconfig.dev.json
+C:\Users\1\Source\Repos\AzureStorageEmulatorTest\AzureStorageEmulatorTest\bin\Debug\netcoreapp2.1\AzureStorageEmulatorTest.dll
+C:\Users\1\Source\Repos\AzureStorageEmulatorTest\AzureStorageEmulatorTest\obj\Debug\netcoreapp2.1\AzureStorageEmulatorTest.csproj.CoreCompileInputs.cache
+C:\Users\1\Source\Repos\AzureStorageEmulatorTest\AzureStorageEmulatorTest\obj\Debug\netcoreapp2.1\AzureStorageEmulatorTest.AssemblyInfoInputs.cache
+C:\Users\1\Source\Repos\AzureStorageEmulatorTest\AzureStorageEmulatorTest\obj\Debug\netcoreapp2.1\AzureStorageEmulatorTest.AssemblyInfo.cs
+C:\Users\1\Source\Repos\AzureStorageEmulatorTest\AzureStorageEmulatorTest\obj\Debug\netcoreapp2.1\AzureStorageEmulatorTest.csprojAssemblyReference.cache
+C:\Users\1\Source\Repos\AzureStorageEmulatorTest\AzureStorageEmulatorTest\bin\Debug\netcoreapp2.1\AzureStorageEmulatorTest.pdb
+C:\Users\1\Source\Repos\AzureStorageEmulatorTest\AzureStorageEmulatorTest\obj\Debug\netcoreapp2.1\AzureStorageEmulatorTest.dll
+C:\Users\1\Source\Repos\AzureStorageEmulatorTest\AzureStorageEmulatorTest\obj\Debug\netcoreapp2.1\AzureStorageEmulatorTest.pdb
